@@ -1,4 +1,4 @@
-var sum:number=0;
+/*var sum:number=0;
 var result:number[]=[]
 for(let i=1; 1<=100;i++){
 
@@ -10,5 +10,9 @@ if(i%2==0){
 }
 
 console.log(sum);
-console.log(result)
+console.log(result)*/
+var num1:number=12;
+var num2:number=15;
+var result:number=num1+num2;
+console.log(result);
 
